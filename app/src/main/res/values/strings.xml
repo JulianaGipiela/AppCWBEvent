@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CWBEvent</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_cadastro">cadastro</string>
+    <string name="title_activity_favoritos">favoritos</string>
+    <string name="facebook_app_id">1891066761163113</string>
+    <string name="title_activity_editar">Editar</string>
+</resources>
